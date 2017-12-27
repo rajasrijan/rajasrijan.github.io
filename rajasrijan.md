@@ -1,7 +1,4 @@
 ---
-redirect_from: 
-   - /rajasrijan
-   - /rajasrijan/
 layout: page
 title: Portfolio
 tagline: Projects, Tools & Skills
